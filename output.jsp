@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="windows-1255">
-<title>Insert title here111</title>
+<title>Insert title here</title>
 </head>
 <body>
 
